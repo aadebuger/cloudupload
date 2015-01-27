@@ -1,1 +1,1 @@
-python myqiniupload.py "$1"  "$2"  "$3"
+python /code/myqiniupload.py "$1"  "$2"  "$3"
